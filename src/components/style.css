@@ -1,0 +1,21 @@
+.notification {
+    color: #a44519;
+}
+.list {
+    list-style: none;
+}
+.item {
+    padding: 5px;
+    border: 1px grey solid;
+}
+.item:hover {
+    color: #d48fd7;
+}
+.input {
+    margin-left: 40px;
+    width: 400px;
+}
+.button {
+    background-color:  #d48fd7;
+    border-color: #d48fd7;
+}
